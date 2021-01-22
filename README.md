@@ -1,4 +1,4 @@
-# Matthew Taylor
+# Matt Taylor (MTaylor-tech)
 ## Full Stack Developer
 
 Always looking for creative ways to make interaction with web apps easier, intuitive, and problem-free. 20+ years of web design and programming experience. Knowledgeable in a variety of programming languages and web frameworks, and quick to adapt to anything new.
